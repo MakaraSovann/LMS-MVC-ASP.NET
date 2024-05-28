@@ -1,0 +1,52 @@
+﻿@model LMSMVC.Models.Book
+<div class="card">
+	<div class="card-header text-uppercase">
+		<h4 class="h4">Delete Book</h4>
+	</div>
+	<div class="card-body">
+		<form asp-action="Destroy" asp-controller="Book" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="BookId" />
+			<div class="row">
+				<div class="form-group col-sm-4">
+					<label asp-for="BookName" class="control-label"></label>
+					<input asp-for="BookName" placeholder="BookName" type="text" class="form-control" />
+					<span asp-validation-for="BookName" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="BookCode" class="control-label"></label>
+					<input asp-for="BookCode" placeholder="BookCode" type="text" class="form-control" />
+					<span asp-validation-for="BookCode" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="Author" class="control-label"></label>
+					<input asp-for="Author" placeholder="Author" type="text" class="form-control" />
+					<span asp-validation-for="Author" class="text-danger"></span>
+				</div>
+			</div>
+			<div class="row">
+
+				<div class="form-group col-sm-4">
+					<label asp-for="Title" class="control-label"></label>
+					<input asp-for="Title" placeholder="Title" type="text" class="form-control" />
+					<span asp-validation-for="Title" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="BookDate" class="control-label"></label>
+					<input asp-for="BookDate" placeholder="BookDate" type="date" class="form-control" />
+					<span asp-validation-for="BookDate" class="text-danger"></span>
+				</div>
+				<div class="form-group col-sm-4">
+					<label asp-for="Quantity" class="control-label"></label>
+					<input asp-for="Quantity" placeholder="Quantity" type="text" class="form-control" />
+					<span asp-validation-for="Quantity" class="text-danger"></span>
+				</div>
+
+
+				<div class="form-group">
+					<button type="submit" class="btn btn-success btn-sm float-right ml-1"> Delete</button>
+					<a asp-action="Index" class="btn btn-danger btn-sm float-right">Cancel</a>
+				</div>
+		</form>
+	</div>
+</div>

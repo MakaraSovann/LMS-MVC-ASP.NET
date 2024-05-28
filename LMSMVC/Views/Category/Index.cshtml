@@ -1,0 +1,48 @@
+﻿@model IEnumerable<LMSMVC.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="card">
+    <div class="card-header">
+        <h2 class="card-title">Category List</h2>
+    </div>
+    <div class="card-danger">
+        <p>
+            <a asp-action="Create" class="btn btn-outline-primary btn-sm float-right"><i class="fa-solid fa-cart-plus"></i> Add New Category</a>
+        </p>
+        <table class="table table-avatar table-bordered ">
+            <tr style="background-color: #12c2e9;">
+                <th>
+                    @Html.DisplayNameFor(model => model.CategoryId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.CategoryId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(Model => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model =>item.Description)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Category" asp-route-CategoryId="@item.CategoryId" class="btn btn-outline-primary ml-1"><i class="fas fa-edit"></i> Edit</a>
+                        <a asp-action="Delete" asp-controller="Category" asp-route-CategoryId="@item.CategoryId" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i> Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

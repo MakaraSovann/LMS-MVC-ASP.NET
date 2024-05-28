@@ -1,0 +1,61 @@
+﻿@model IEnumerable<LMSMVC.Models.Author>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="card">
+    <div class="card-header">
+        <h2 class="card-title">Author List</h2>
+    </div>
+    <div class="card-danger">
+        <p>
+            <a asp-action="Create" class="btn btn-outline-primary btn-sm float-right"><i class="fa-solid fa-cart-plus"></i> Add New Author</a>
+        </p>
+        <table class="table table-avatar table-bordered ">
+            <tr style="background-color: #12c2e9;">
+                <th>
+                    @Html.DisplayNameFor(model => model.AuthorId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AuthorName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+               
+                <th>
+                    Action
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.AuthorId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.AuthorName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Address)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Author" asp-route-AuthorId="@item.AuthorId" class="btn btn-outline-primary ml-1"><i class="fas fa-edit"></i> Edit</a>
+                        <a asp-action="Delete" asp-controller="Author" asp-route-AuthorId="@item.AuthorId" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i> Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

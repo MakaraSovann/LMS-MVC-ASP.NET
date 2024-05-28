@@ -1,0 +1,31 @@
+﻿@model LMSMVC.Models.Category
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="Card">
+    <div class="card-header text-uppercase">
+        <h4 class="h4">Add New Category</h4>
+    </div>
+   
+    <div class="card-body">
+
+
+        <form asp-action="Store" asp-controller="Category" method="post">
+            <div class="form-row">
+                <div class="form-group col-sm-6">
+                    <label asp-for="Name" class="control-label">Name</label>
+                    <input asp-for="Name" type="text" placeholder="Name" class="form-control " />
+
+                </div>
+                <div class="form-group col-sm-6">
+                    <label asp-for="Description" class="control-label">Description </label>
+                    <input asp-for="Description" type="text" placeholder="Description" class="form-control" />
+                </div>
+            </div>
+                    
+            <button type="submit" class="btn btn-sm btn-outline-primary"> <i class="fa-solid fa-plus"></i> Add Category</button>
+
+        </form>
+        
+    </div>
+</div>

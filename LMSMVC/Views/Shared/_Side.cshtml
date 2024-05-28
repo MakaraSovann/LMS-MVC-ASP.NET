@@ -1,0 +1,61 @@
+﻿<aside class="main-sidebar elevation-4" style="background-color: #33DDFF;">
+
+    <a href="index3.html" class="brand-link">
+
+
+
+        <img src="~/admin-lte/img/adminltelogo.png" class="brand-image img-circle elevation-3" style="opacity: .9" />
+
+        <span class="brand-text font-weight-dark">LMS</span>
+    </a>
+
+    <div class="sidebar">
+            
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <div class="image">
+               
+
+                <img src="~/admin-lte/img/avatar.png" class="image-circle elevation-3" alt="User Image" style="opacity: .8" />
+
+            </div>
+            <div class="info">
+                <a href="#" class="d-block ml-1">User</a>
+            </div>
+        </div>
+
+
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+                <li class="nav-item">
+                    <a asp-action="Index" asp-controller="Author" class="nav-link">
+                        <i class="fa-solid fa-user ml-1"></i>
+                        <p class="ml-1">
+                           Author
+                        </p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a asp-action="Index" asp-controller="Book" class="nav-link">
+                        <i class="fa-solid fa-book-tanakh ml-1"></i>
+                        <p class="ml-1">
+                            Book
+                        </p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-action="Index" asp-controller="Category" class="nav-link">
+                        <i class="fa-solid fa-layer-group"></i>
+                        <p class="ml-1">
+                           Category
+                        </p>
+                    </a>
+                </li>
+
+            </ul>
+        </nav>
+
+    </div>
+
+</aside>

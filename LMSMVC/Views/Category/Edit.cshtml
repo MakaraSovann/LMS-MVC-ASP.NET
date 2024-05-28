@@ -1,0 +1,35 @@
+﻿@model LMSMVC.Models.Category
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="Card">
+    <div class="card-header text-uppercase">
+        <h4 class="h4">Update Category</h4>
+    </div>
+    <div class="card-body">
+
+
+        <form asp-action="Update" asp-controller="Category" method="post">
+            <input type="hidden" asp-for="CategoryId" />
+            <div class="form-row">
+                <div class="form-group col-sm-6">
+                    <label asp-for="Name" class="control-label">Name</label>
+                    <input asp-for="Name" type="text" placeholder="Name" class="form-control " />
+
+                </div>
+                <div class="form-group col-sm-6">
+                    <label asp-for="Description" class="control-label">Description </label>
+                    <input asp-for="Description" type="text" placeholder="Description" class="form-control" />
+                </div>
+            </div>
+
+           <div class="from-group">
+                <button type="submit" class="btn btn-sm btn-outline-primary"><i class="fa-solid fa-pen"></i> Update</button>
+                <a asp-action="Index" class="btn btn-sm btn-outline-danger"><i class="fa-solid fa-backward"></i> Cancel</a>
+           </div>
+
+
+        </form>
+
+    </div>
+</div>
