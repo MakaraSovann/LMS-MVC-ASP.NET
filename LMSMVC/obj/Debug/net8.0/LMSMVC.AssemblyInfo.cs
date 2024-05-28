@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMSMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e60c57a811696033a3c85e0504d1077f24c41ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMSMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMSMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DdTuq0+e2hgh9OFMOkS144+iefJZ3WjOa2Fjdo511rc=",
+  "Hash": "IjnR6L0ZiDS5i9lcScRbzFA+xltzf23RsMWA8AalSb0=",
   "Source": "LMSMVC",
   "BasePath": "_content/LMSMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LMSMVC\\wwwroot",
       "Source": "LMSMVC",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\css\\adminlte.min.css",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\css\\adminlte.min.css",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/css/adminlte.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\css\\adminlte.min.css"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\8k-iphone-nem8ep19bdcww7oh.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\8k-iphone-nem8ep19bdcww7oh.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/8k-iphone-nem8ep19bdcww7oh.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\8k-iphone-nem8ep19bdcww7oh.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\AdminLTELogo.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\AdminLTELogo.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/AdminLTELogo.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\AdminLTELogo.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/avatar.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\avatar.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar2.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar2.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/avatar2.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\avatar2.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar3.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar3.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/avatar3.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\avatar3.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar4.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar4.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/avatar4.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\avatar4.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar5.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\avatar5.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/avatar5.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\avatar5.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\boxed-bg.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\boxed-bg.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/boxed-bg.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\boxed-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\boxed-bg.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\boxed-bg.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/boxed-bg.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\boxed-bg.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\american-express.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\american-express.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/american-express.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\american-express.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\cirrus.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\cirrus.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/cirrus.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\cirrus.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\mastercard.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\mastercard.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/mastercard.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\paypal.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\paypal.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/paypal.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\paypal2.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\paypal2.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/paypal2.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\paypal2.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\visa.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\credit\\visa.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/credit/visa.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\credit\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\default-150x150.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\default-150x150.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/default-150x150.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\default-150x150.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\icons.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\icons.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/icons.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\icons.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo1.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo1.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/photo1.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\photo1.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo2.png",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo2.png",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/photo2.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\photo2.png"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo3.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo3.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/photo3.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\photo3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo4.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\photo4.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/photo4.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\photo4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-1.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-1.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/prod-1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\prod-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-2.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-2.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/prod-2.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\prod-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-3.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-3.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/prod-3.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\prod-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-4.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-4.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/prod-4.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\prod-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-5.jpg",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\img\\prod-5.jpg",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/img/prod-5.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\img\\prod-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\js\\adminlte.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\js\\adminlte.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/js/adminlte.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\js\\adminlte.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\admin-lte\\js\\pages\\dashboard.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\admin-lte\\js\\pages\\dashboard.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "admin-lte/js/pages/dashboard.min.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin-lte\\js\\pages\\dashboard.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\css\\all.min.css",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\css\\all.min.css",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\js\\all.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\js\\all.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/js/all.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery\\jquery.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery\\jquery.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery/jquery.min.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\additional-methods.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\additional-methods.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/additional-methods.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\additional-methods.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\additional-methods.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/additional-methods.min.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery.validate.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery.validate.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/jquery.validate.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery.validate.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery.validate.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/jquery.validate.min.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery-validation-sri.json",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\jquery-validation-sri.json",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/jquery-validation-sri.json",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\jquery-validation-sri.json"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ar.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ar.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ar.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ar.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ar.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ar.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ar.min.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_az.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_az.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_az.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_az.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_az.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_az.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_az.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_az.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bg.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bg.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_bg.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_bg.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bg.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bg.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_bg.min.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_bg.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_bn_BD.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_bn_BD.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_bn_BD.min.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_bn_BD.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ca.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ca.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ca.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ca.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ca.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ca.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ca.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ca.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_cs.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_cs.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_cs.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_cs.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_cs.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_cs.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_cs.min.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_cs.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_da.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_da.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_da.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_da.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_da.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_da.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_da.min.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_da.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_de.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_de.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_de.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_de.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_de.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_de.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_de.min.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_de.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_el.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_el.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_el.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_el.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_el.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_el.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_el.min.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_el.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_AR.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_AR.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es_AR.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es_AR.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es_AR.min.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es_AR.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_PE.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_PE.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es_PE.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es_PE.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_es_PE.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_es_PE.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_et.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_et.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_et.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_et.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_et.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_et.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_et.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_et.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_eu.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_eu.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_eu.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_eu.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_eu.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_eu.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_eu.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_eu.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fa.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fa.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fa.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fa.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fa.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fa.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fa.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fa.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fi.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fi.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fi.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fi.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fi.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fi.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fi.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fr.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fr.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fr.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fr.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fr.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_fr.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_fr.min.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_fr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ge.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ge.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ge.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ge.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ge.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ge.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ge.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ge.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_gl.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_gl.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_gl.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_gl.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_gl.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_gl.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_gl.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_gl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_he.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_he.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_he.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_he.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_he.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_he.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_he.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_he.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hi.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hi.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hi.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hi.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hi.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hi.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hi.min.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hr.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hr.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hr.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hr.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hr.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hr.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hr.min.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hu.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hu.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hu.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hu.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hu.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hu.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hu.min.js",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hu.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hy_AM.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hy_AM.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_hy_AM.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_hy_AM.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_id.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_id.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_id.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_id.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_id.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_id.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_id.min.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_id.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_is.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_is.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_is.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_is.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_is.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_is.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_is.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_is.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_it.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_it.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_it.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_it.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_it.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_it.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_it.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_it.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ja.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ja.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ja.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ja.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ja.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ja.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ja.min.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ja.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ka.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ka.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ka.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ka.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ka.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ka.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ka.min.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ka.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_kk.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_kk.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_kk.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_kk.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_kk.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_kk.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_kk.min.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_kk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ko.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ko.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ko.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ko.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ko.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ko.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ko.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ko.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lt.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lt.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_lt.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_lt.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lt.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lt.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_lt.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_lt.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lv.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lv.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_lv.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_lv.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lv.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_lv.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_lv.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_lv.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_mk.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_mk.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_mk.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_mk.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_mk.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_mk.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_mk.min.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_mk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_my.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_my.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_my.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_my.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_my.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_my.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_my.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_my.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_nl.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_nl.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_nl.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_nl.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_nl.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_nl.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_nl.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_nl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_no.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_no.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_no.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_no.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_no.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_no.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_no.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_no.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pl.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pl.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pl.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pl.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pl.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pl.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pl.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pt_BR.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pt_BR.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pt_BR.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pt_BR.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pt_PT.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pt_PT.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_pt_PT.min.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_pt_PT.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ro.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ro.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ro.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ro.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ro.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ro.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ro.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ro.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ru.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ru.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ru.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ru.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ru.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ru.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ru.min.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ru.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sd.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sd.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sd.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sd.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sd.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sd.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sd.min.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_si.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_si.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_si.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_si.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_si.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_si.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_si.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_si.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sk.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sk.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sk.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sk.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sk.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sk.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sk.min.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sl.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sl.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sl.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sl.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sl.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sl.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sl.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sr.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sr.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sr.min.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sr_lat.js",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sr_lat.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sr_lat.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sr_lat.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sv.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sv.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sv.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sv.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sv.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_sv.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_sv.min.js",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_sv.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_th.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_th.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_th.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_th.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_th.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_th.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_th.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_th.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tj.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tj.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_tj.js",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_tj.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tj.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tj.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_tj.min.js",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_tj.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tr.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tr.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_tr.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_tr.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tr.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_tr.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_tr.min.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_tr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_uk.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_uk.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_uk.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_uk.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_uk.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_uk.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_uk.min.js",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_uk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ur.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ur.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ur.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ur.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ur.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_ur.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_ur.min.js",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_ur.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_vi.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_vi.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_vi.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_vi.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_vi.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_vi.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_vi.min.js",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_vi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_zh.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_zh.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_zh.min.js",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_zh.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_zh_TW.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_zh_TW.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/messages_zh_TW.min.js",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\messages_zh_TW.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_de.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_de.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_de.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_de.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_de.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_de.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_de.min.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_de.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_es_CL.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_es_CL.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_es_CL.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_es_CL.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_es_CL.min.js",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_es_CL.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_fi.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_fi.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_fi.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_fi.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_fi.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_fi.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_fi.min.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_fi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_it.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_it.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_it.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_it.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_it.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_it.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_it.min.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_it.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_nl.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_nl.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_nl.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_nl.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_nl.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_nl.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_nl.min.js",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_nl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_pt.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_pt.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_pt.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_pt.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_pt.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validate\\localization\\methods_pt.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validate/localization/methods_pt.min.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validate\\localization\\methods_pt.min.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "LMSMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\wwwroot\\",
+      "ContentRoot": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\wwwroot\\",
       "BasePath": "_content/LMSMVC",
       "RelativePath": "jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",

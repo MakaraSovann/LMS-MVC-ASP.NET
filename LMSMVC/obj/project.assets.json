@@ -3990,11 +3990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\LMSMVC.csproj",
+      "projectUniqueName": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\LMSMVC.csproj",
       "projectName": "LMSMVC",
-      "projectPath": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\LMSMVC.csproj",
+      "projectPath": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\LMSMVC.csproj",
       "packagesPath": "C:\\Users\\Makara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\obj\\",
+      "outputPath": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Makara\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzWT5ENr0hCaZK+eCmd8AHMXVELBXKymdYCw5h2lIZhSrIHFy28uhwJWGKUvJd3MnWiAT3GsQLfJlW8rxEH9xQ==",
+  "dgSpecHash": "HRsxQgNQ1X3K0zV98+Ri7w/oa7Rup759dq3oYSASCV5wmDD0Z8hRJdGrMFTwiSW3yqEhz5WnRWNMhDOWXidGuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Makara\\Desktop\\LMSMVC\\LMSMVC\\LMSMVC.csproj",
+  "projectFilePath": "D:\\BBULesson\\LMS-MVC\\LMSMVC\\LMSMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Makara\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Makara\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
